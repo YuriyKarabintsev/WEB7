@@ -28,7 +28,7 @@ class BigTask(QWidget):
             file.write(response.content)
  
  
-     def initUI(self):
+    def initUI(self):
         self.setGeometry(100, 100, *SCREEN_SIZE)
         self.setWindowTitle('Часть 1')
         self.pixmap = QPixmap(self.map_file)

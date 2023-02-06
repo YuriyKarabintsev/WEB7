@@ -9,13 +9,11 @@ SCREEN_SIZE = [1500, 900]
 class BigTask(QWidget):
     def __init__(self):
         super().__init__()
-        self.getImage()
+        self.getImage("37.588392,55.734036")
         self.initUI()
-        print()
 
 
-    def getImage(self):
-        address_ll = "37.588392,55.734036"
+    def getImage(self, address_ll):
         scale = 12
         response = requests.get(f"https://static-maps.yandex.ru/1.x/?ll={address_ll}&z={scale}&l=map&size=650,450")
         if not response:

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96ae639-d875-478e-b60b-4de7a65991bf" name="Changes" comment="Часть 1" />
+    <list default="true" id="d96ae639-d875-478e-b60b-4de7a65991bf" name="Changes" comment="Часть 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +36,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/uraka/PycharmProjects/web7"
+    "last_opened_file_path": "C:/Users/uraka/PycharmProjects/WEB7"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="web7" />
+      <module name="WEB7" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\uraka\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="SDK_NAME" value="Python 3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -75,11 +79,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675665459533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Часть 1">
+      <created>1675666104272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675666104272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Большая задача по Maps API. Часть №1. Карта отображается по координатам и в масштабе, прописанным в программе." />
-    <option name="LAST_COMMIT_MESSAGE" value="Большая задача по Maps API. Часть №1. Карта отображается по координатам и в масштабе, прописанным в программе." />
+    <MESSAGE value="Часть 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Часть 1" />
   </component>
 </project>
